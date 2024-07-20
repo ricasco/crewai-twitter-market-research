@@ -1,0 +1,6 @@
+#!/nix/store/1gc9wvzsy15pclrqfspii166p52lmh5i-python3-3.10.13/bin/python3.10
+import sys
+from twitter.main import run
+
+if __name__ == '__main__':
+    sys.exit(run())

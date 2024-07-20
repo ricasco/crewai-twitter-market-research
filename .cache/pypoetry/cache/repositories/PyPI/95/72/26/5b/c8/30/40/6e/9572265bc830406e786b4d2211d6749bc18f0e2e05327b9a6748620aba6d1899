@@ -1,0 +1,1 @@
+9999999999{"name": "PyPika", "version": "0.48.9", "summary": "A SQL query builder API for Python", "requires_dist": null, "requires_python": null, "files": [{"file": "PyPika-0.48.9.tar.gz", "hash": "sha256:838836a61747e7c8380cd1b7ff638694b7a7335345d0f559b04b2cd832ad5378"}], "yanked": false, "_cache_version": "2.0.0"}

@@ -1,0 +1,16 @@
+# Python-related ignores
+__pycache__/
+*.pyc
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Development tools
+.vscode/
+.idea/
