@@ -29,7 +29,7 @@ This Python application, hosted on Replit and integrated with OpenAI APIs, showc
 - **Data Analysis and Visualization**: The ability to process and analyze data from external APIs can be applied to various data analysis or visualization projects using libraries like Pandas and Matplotlib.
 
 - ## Author
-- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/riccardo-cascone-440085320/))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
